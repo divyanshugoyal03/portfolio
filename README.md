@@ -1,9 +1,6 @@
-# divyanshugoyal03.github.io_code
-divyanshugoyal03.github.io_code
-
-# Portfolio Website
-
-A modern, responsive portfolio website built with Next.js showcasing my projects, skills, and experience.
+# Portfolio
+code for divyanshugoyal03.github.io
+A modern, responsive portfolio website built with Next.js using v0 by Vercel. This project showcases my projects, skills, and experience with a professionally designed interface.
 
 ## Features
 
@@ -16,12 +13,13 @@ A modern, responsive portfolio website built with Next.js showcasing my projects
 
 ## Technologies Used
 
-> v0 was used to create this site
+- **v0 by Vercel** - AI-powered UI generation tool
 - **Next.js 14** - React framework for production
 - **React 18** - JavaScript library for building user interfaces
 - **TypeScript** - Type-safe JavaScript
 - **Tailwind CSS** - Utility-first CSS framework
 - **Framer Motion** - Animation library (optional)
+- **Shadcn/ui** - Modern UI component library
 
 ## Installation
 
@@ -35,6 +33,7 @@ A modern, responsive portfolio website built with Next.js showcasing my projects
    ```bash
    npm install
    ```
+> Note: This project was generated using v0 by Vercel, so all necessary dependencies and configurations are already included.
 
 ## Development
 
@@ -260,6 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
+- [v0 by Vercel](https://v0.dev) - AI-powered UI generation
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS](https://tailwindcss.com)
 - [GitHub Pages](https://pages.github.com)
